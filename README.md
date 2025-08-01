@@ -22,3 +22,9 @@ Previously,
 ## What is the distribution license for Armadillo ?
 Armadillo versions 7.800 and onwards are licensed under the <a href="https://opensource.org/licenses/Apache-2.0">Apache License 2.0</a>.
 The Apache license is a permissive license; its main conditions simply require preservation of copyright and license notices. See also a <a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Quick Summary</a> of the license.
+
+## License
+
+The MIT License (MIT)
+
+Copyright (c) 2025 Peratham Wiriyathammabhum
