@@ -1,6 +1,9 @@
 # armaml
 machine learning using c++ and the <a href="https://arma.sourceforge.net/">Armadillo library (since 2008)</a>.
 
+<a href="https://arma.sourceforge.net/docs.html#syntax">Examples of Matlab/Octave syntax and conceptually corresponding Armadillo syntax</a>.
+
+
 ## Resources
 Please cite the following papers if you use Armadillo in your research and/or software.
 Citations are useful for the continued development and maintenance of the library.
