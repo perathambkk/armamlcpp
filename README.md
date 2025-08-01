@@ -1,5 +1,5 @@
 # armaml
-machine learning using c++ and the <a href="https://arma.sourceforge.net/">Armadillo library</a> <a href="https://en.wikipedia.org/w/index.php?title=Armadillo_(C%2B%2B_library)&oldid=249593452">(since 2008)</a>.
+machine learning using c++ and the <a href="https://arma.sourceforge.net/">Armadillo library</a> <a href="https://en.wikipedia.org/w/index.php?title=Armadillo_(C%2B%2B_library)&oldid=249593452">(since 2008)</a>. <em>Theano was since 2007!</em>
 
 Armadillo is a high quality linear algebra library (matrix maths) for the C++ language, aiming towards a good balance between speed and ease of use.
  
