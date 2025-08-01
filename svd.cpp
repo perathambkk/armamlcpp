@@ -1,5 +1,5 @@
 /*
-* generated using Gemini 2.5 flash in a google search of "armadillo c++ pca svd".'
+* generated using Gemini 2.5 flash in a google search of "armadillo c++ pca svd".
 *
 * search query inputter: Peratham Wiriyathammabhum
 */
