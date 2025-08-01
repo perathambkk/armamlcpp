@@ -16,5 +16,5 @@ International Conference on Computer and Automation Engineering, 2025.
 Practical Sparse Matrices in C++ with Hybrid Storage and Template-Based Expression Optimisation.
 Mathematical and Computational Applications, Vol. 24, No. 3, 2019.
 
-Previously 
+Previously, 
 * Sanderson, Conrad. "Armadillo: An open source C++ linear algebra library for fast prototyping and computationally intensive experiments." (2010): 1-15.
