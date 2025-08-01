@@ -3,7 +3,7 @@ machine learning using c++ and the <a href="https://arma.sourceforge.net/">Armad
 
 Armadillo is a high quality linear algebra library (matrix maths) for the C++ language, aiming towards a good balance between speed and ease of use.
  
-Provides high-level syntax and functionality deliberately similar to Matlab.  
+Provides high-level syntax and functionality deliberately similar to Matlab. (as easy as Numpy!)  
 <a href="https://arma.sourceforge.net/docs.html#syntax">Examples of Matlab/Octave syntax and conceptually corresponding Armadillo syntax</a>.
 
 
