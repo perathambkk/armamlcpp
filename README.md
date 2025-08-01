@@ -1,5 +1,5 @@
 # armaml
-machine learning using c++ and the Armadillo library (since 2008)
+machine learning using c++ and the <a href="https://arma.sourceforge.net/">Armadillo library (since 2008)</a>
 
 ## Resources
 Please cite the following papers if you use Armadillo in your research and/or software.
